@@ -1,7 +1,7 @@
 ## CHANGELOG
 
-## Version 1.0.0 (aaaa-mm-dd)
+## Version 1.0.0 (2022-05-02)
 
 First release:
 
-* <Project Name> - <Comment>
+* Hello, Metal! - Initial Commit & Folder structure.

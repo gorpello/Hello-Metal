@@ -1,11 +1,13 @@
  
 #  Hello, Metal!
 
+![Apple Metal Logo](./metal-logo.jpg)
 
-For all the details about this tutorial read the relative notion page.
+In this repository year to publish all the various projects and examples that I will use to learn Metal.
+It's a personal journey of discovery of the framework, it's very probable I'll make a lot of mistakes along the way, but that's okay 😅👾🎮♥️
 
 
-### First project name
+### About
 
 <p align="center">
     <a href="#" alt="Version">
@@ -22,7 +24,7 @@ For all the details about this tutorial read the relative notion page.
         <img src="https://img.shields.io/static/v1?label=Built%20for&message=iOS%2015.0&color=brightgreen"
             alt="service-test status"></a>
     <a href="#" alt="Frameworks used">
-        <img src="https://img.shields.io/static/v1?label=Frameworks%20used&message=SwiftUI&color=brightgreen&logo=swift"
+        <img src="https://img.shields.io/static/v1?label=Frameworks%20used&message=SwiftUI%20-%20Metal&color=brightgreen&logo=swift"
             alt="coverage"></a>
 </p>
 
@@ -30,4 +32,6 @@ For all the details about this tutorial read the relative notion page.
 
 * [Gianluca Orpello](https://github.com/gorpello)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+### Project List:
+
+1. **[Hello, Metal!](https://pages.github.com/)**
